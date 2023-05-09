@@ -1,7 +1,7 @@
 #include <iostream>
 #include <getopt.h>
 
-#include "steg.hpp"
+#include "src/steg.hpp"
 
 #define OPTIONS "i:d:o:b:vh"
 
